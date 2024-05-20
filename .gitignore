@@ -1,0 +1,6 @@
+temp/
+src/*.scratch.js
+node_modules/
+.vscode/
+tools/
+reg_backup/

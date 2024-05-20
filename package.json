@@ -1,0 +1,19 @@
+{
+  "name": "wosm",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "electron:start": "electron src/window/electron.js"
+  },
+  "dependencies": {
+    "consola": "^3.2.3",
+    "electron": "^30.0.6",
+    "regedit": "^5.1.3",
+    "short-uuid": "^5.2.0",
+    "systeminformation": "^5.22.9",
+    "yargs": "^17.7.2"
+  }
+}
